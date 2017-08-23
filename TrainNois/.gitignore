@@ -155,23 +155,5 @@ $RECYCLE.BIN/
 # Mac desktop service store files
 .DS_Store
 /packages
-/Framework/Common/bin
-/Framework/Common/obj
-/Library/Cloud/bin
-/Library/Cloud/obj
-/Library/Core/bin
-/Library/Core/obj
-/Library/Entities/bin
-/Library/Entities/obj
-/Library/Membership/bin
-/Library/Membership/obj
-/Library/Membership/bin
-/Library/Membership/obj
-/Library/Entities/bin
-/Library/Entities/obj
-/Library/Services/bin
-/Library/Services/obj
-/SyncImageForOrderItemWebJob/bin
-/SyncImageForOrderItemWebJob/obj
 /.vs/config
 /UI/API/Js/node_modules
